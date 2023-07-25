@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-Hi, I'm XUE Boyang, an NLPer and Ph.D. student at The Chinese University of Hong Kong. My research interests include factual knowledge and hallucinations in pre-trained LLMs.
+Hi, I'm XUE Boyang,  
 
+- 🔭 An NLPer and Ph.D. student at The Chinese University of Hong Kong.
+- 🌱 My research interests include factual knowledge and hallucinations in pre-trained LLMs.
+- 👯 I’m looking for more collaborations on interesting NLP research opportunities.
 - 📫 My e-mail address: beyondhsueh1024@gmail.com.
+
 <!--- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  --->
