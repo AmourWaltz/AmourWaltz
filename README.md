@@ -7,11 +7,13 @@ Hi, I'm XUE Boyang,
 - 👯 Looking for more interesting NLP research collaborations.
 - 📫 E-mail address: beyondhsueh1024@gmail.com.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guangyans&count_private=true&show_icons=true&theme=dark" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amourwaltz)](https://github.com/amourwaltz/github-readme-stats)
+
+<a href="https://github.com/AmourWaltz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amourwaltz&count_private=true&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guangyans&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=300" />
+<a href="https://github.com/AmourWaltz/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amourwaltz&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=300" />
 </a>
 
 <!--- 
