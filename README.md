@@ -7,9 +7,7 @@ Hi, I'm XUE Boyang,
 - 👯 Looking for more interesting NLP research collaborations.
 - 📫 E-mail address: beyondhsueh1024@gmail.com.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amourwaltz)](https://github.com/amourwaltz/github-readme-stats)
-
-<a href="https://github.com/AmourWaltz/github-readme-stats">
+<a href="https://github.com/amourwaltz/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amourwaltz&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/AmourWaltz/convoychat">
