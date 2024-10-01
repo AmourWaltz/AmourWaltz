@@ -7,6 +7,13 @@ Hi, I'm XUE Boyang,
 - 👯 Looking for more interesting NLP research collaborations.
 - 📫 E-mail address: beyondhsueh1024@gmail.com.
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guangyans&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guangyans&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=300" />
+</a>
+
 <!--- 
 - 👯 I’m looking to collaborate on ...
 
