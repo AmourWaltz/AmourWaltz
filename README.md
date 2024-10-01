@@ -10,9 +10,6 @@ Hi, I'm XUE Boyang,
 <a href="https://github.com/amourwaltz/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amourwaltz&count_private=true&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/amourwaltz/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amourwaltz&langs_count=8&theme=dark&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=300" />
-</a>
 
 <!--- 
 - 👯 I’m looking to collaborate on ...
