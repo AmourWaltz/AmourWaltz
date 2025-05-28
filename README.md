@@ -2,7 +2,7 @@
 
 Hi, I'm XUE Boyang,  
 
-- 🔭 An NLPer and Ph.D. student at SEEM, CUHK.
+- 🔭 An NLPer and Ph.D. candidate at SEEM, CUHK.
 - 🌱 Research interests: Trustworthy AI, Large Language Models.
 - 👯 Looking for more interesting NLP research collaborations.
 - 📫 E-mail address: beyondhsueh1024@gmail.com.
